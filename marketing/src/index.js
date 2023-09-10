@@ -1,0 +1,2 @@
+// MARKETING INDEX
+import("./bootstrap");
